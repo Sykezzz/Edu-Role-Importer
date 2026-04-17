@@ -56,7 +56,7 @@ VERSION = "2.1.0"
 # so the auto-update feature can download new versions.
 # Example: "https://raw.githubusercontent.com/yourorg/yourrepo/main"
 # Leave as "" to disable network-based updating (manual file drop still works).
-UPDATE_BASE_URL = "https://raw.githubusercontent.com/Sykezzz/Edu-Role-Importer/refs/heads/main/skyward_to_eduphoria.py"
+UPDATE_BASE_URL = "https://raw.githubusercontent.com/Sykezzz/Edu-Role-Importer/main"
 UPDATE_FILES    = [
     "skyward_to_eduphoria.py",
     "LAUNCH_WINDOWS.bat",
