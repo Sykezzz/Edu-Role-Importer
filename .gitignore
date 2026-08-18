@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+role_memory.json
+run_log.json
+*.csv
+!sample_data/*.csv
+*.xlsx
+!sample_data/*.xlsx
